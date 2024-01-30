@@ -7,3 +7,6 @@
 
 
 -Replacing missing data
+
+
+-Sorting and accessing data from different rows & columns.
