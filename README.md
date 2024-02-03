@@ -10,3 +10,6 @@
 
 
 -Sorting and accessing data from different rows & columns.
+
+
+-Cleaning Phone Numbers,Address.
