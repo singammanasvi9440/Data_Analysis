@@ -6,7 +6,7 @@
 -Handling missing data with fillna
 
 
--Replacing missing data
+-Replacing missing data,filling Nan Values
 
 
 -Sorting and accessing data from different rows & columns.
