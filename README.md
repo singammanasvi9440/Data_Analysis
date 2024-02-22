@@ -12,4 +12,6 @@
 -Sorting and accessing data from different rows & columns.
 
 
--Cleaning Phone Numbers,Address.
+-Cleaning Phone Numbers,Address
+
+-Cleaning Names
